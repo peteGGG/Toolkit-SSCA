@@ -106,7 +106,7 @@ The PowerBI template [SSCA v0.7.pbit](SSCA%20v0.7.pbit) provided was developed t
 * Read access to the Microsoft Defender Advanced Threat Hunt. 
 * Read access to a SharePoint Library or Local Folder where the prior Domain Asset Collection, SSCA_SCHEMA file was performed saved.  
 
-###PowerBI First-Run
+### PowerBI First-Run
 The first time you launch the [SSCA v0.7.pbit](SSCA%20v0.7.pbit) template, it will request a small set of parameters to configure the report for your environment:
 ![PowerBI Parameters](Screenshots%20/PowerBI-Parameters.png)
 
